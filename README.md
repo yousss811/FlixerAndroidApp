@@ -22,7 +22,7 @@ As a part of the Code Path Android Development Course, Flixer is an app that wil
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/gallery/wOqKEEb" width=250><br>
+<img src="https://i.imgur.com/m1T18Bx.gif" width=250><br>
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
